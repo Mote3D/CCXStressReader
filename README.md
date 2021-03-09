@@ -11,3 +11,7 @@ Element variable output to the .dat file can be activated by adding the followin
 *EL PRINT, ELSET=Eall
 S, E, PEEQ
 ```
+
+#### License
+
+CCXStressReader is licensed under the [GNU Lesser General Public License](https://github.com/Mote3D/PhaceXL_2D/blob/master/LICENSE).
