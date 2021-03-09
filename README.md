@@ -14,4 +14,4 @@ S, E, PEEQ
 
 #### License
 
-CCXStressReader is licensed under the [GNU Lesser General Public License](https://github.com/Mote3D/PhaceXL_2D/blob/master/LICENSE).
+CCXStressReader is licensed under the [GNU Lesser General Public License](https://github.com/Mote3D/CCXStressReader/blob/main/LICENSE.txt).
