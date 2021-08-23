@@ -8,7 +8,7 @@ The .dat file stores element variable output at the elements' integration points
 
 Element variable output to the .dat file can be activated by adding the following command to the [CalculiX](http://www.calculix.de/) .inp file:
 ```   
-*EL PRINT, ELSET=Eall
+*EL PRINT, ELSET=Eall, FREQUENCY=n
 S, E, PEEQ
 ```
 
