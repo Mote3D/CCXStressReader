@@ -11,7 +11,7 @@ Element variable output to the .dat file can be activated by adding the followin
 *EL PRINT, ELSET=Eall, FREQUENCY=n
 S, E, PEEQ
 ```
-The parameter `FREQUENCY=n` can be used to store element variable output after every *n*th increment and at the end of the calculation step in non-linear analyses.
+The parameter `FREQUENCY=n` can be used to store element variable output only after every *n*th increment and at the end of the calculation step in non-linear analyses.
 
 #### License
 
