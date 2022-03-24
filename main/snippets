@@ -45,6 +45,26 @@ def parse_file(fname):
 def compare_content(pdictlist):
     """Compare content of two files"""
     if pdictlist[0].keys() == pdictlist[1].keys():
-        print('hhh')
+        print('comparing files...')
     else:
         pass
+
+
+
+def main():
+
+    filename1 = '1.pdf'
+    filename2 = '2.pdf'
+
+
+    # Read element variable output from .dat file:
+    pagetext1 = parse_file(filename1)
+    pagetext2 = parse_file(filename2)
+    
+    pagedictlist = [pagetext1, pagetext2]
+
+    compare_content(pagedictlist)
+
+    print(set(pagetext1.items()) ^ set(pagetext2.items()))
+
+
