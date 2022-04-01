@@ -171,7 +171,7 @@ def main():
 
     # Write results to .txt file:
     write_txtfile(fname, RESarr)
- 
+
 
 if __name__ == "__main__":
     main()
