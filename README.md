@@ -1,5 +1,8 @@
 ## CCXStressReader
 
+[![doi](https://zenodo.org/badge/DOI/10.5281/zenodo.10094249.svg)](https://doi.org/10.5281/zenodo.10094249)
+[![latest release](https://img.shields.io/github/release/Mote3D/CCXStressReader.svg)](http://github.com/Mote3D/CCXStressReader/releases/tag/v1.0)
+
 #### Description
 
 CCXStressReader reads element variable output such as stresses and strains from .dat files created by the free finite-element software [CalculiX](http://www.calculix.de/) [G. Dhondt, K. Wittig] or the [FreeCAD](http://www.freecadweb.org/) [J. Riegel, W. Mayer, Y. van Havre] FEM module and computes the minimum, maximum and arithmetic mean of Mises equivalent stress, total effective strain and equivalent plastic strain. The results are written to a .txt file.
