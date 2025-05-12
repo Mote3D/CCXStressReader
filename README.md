@@ -1,6 +1,5 @@
 ## CCXStressReader
 
-[![doi](https://zenodo.org/badge/DOI/10.5281/zenodo.10094249.svg)](https://doi.org/10.5281/zenodo.10094249)
 [![latest release](https://img.shields.io/github/release/Mote3D/CCXStressReader.svg)](http://github.com/Mote3D/CCXStressReader/releases/tag/v1.0)
 
 #### Description
